@@ -2,8 +2,8 @@
 Student Application for iKonnect Application
 Basic Git Commands
 
-# git config user.email "mr.amar.saxena@gmail.com"
-# git config user.name "amar635"
+# git config user.email "myemail@id"
+# git config user.name "gitusername"
 # git clone 
 # git add <filename.extension>
 # git add <foldername>/*
