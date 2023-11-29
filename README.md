@@ -10,3 +10,12 @@ Basic Git Commands
 # git commit
 # git push
 # git difftool HEAD
+
+
+## Init Command
+
+# git init
+# git remote add origin <--link-->      //to connect to the git repository
+# git remote -v             //to verigy remote
+# git branch -M main        //to remote branch
+# git push origin main      //to push to the origin 
